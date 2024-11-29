@@ -1,0 +1,623 @@
+.admin,
+.admin * {
+  box-sizing: border-box;
+}
+.admin {
+  background: #ffffff;
+  height: 1431px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-4 {
+  background: #ff0000;
+  padding: 8px 42px 8px 42px;
+  display: flex;
+  flex-direction: row;
+  gap: 470px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 1440px;
+  height: 68px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 41px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: underline;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.donor-list {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.search-donor {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.admin2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-279 {
+  background: #866e6e;
+  padding: 12px 74px 2213px 74px;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 1002px;
+  position: absolute;
+  left: 0px;
+  top: 68px;
+}
+.dash-board {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.blood-group {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.donor-list2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-256 {
+  background: #ff1c1c;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 1070px;
+}
+.blood-donation-management-system {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--heading-h1-bold-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--heading-h1-bold-font-size, 48px);
+  line-height: var(--heading-h1-bold-line-height, 130%);
+  font-weight: var(--heading-h1-bold-font-weight, 700);
+  position: relative;
+}
+.frame-255 {
+  padding: 18px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 789px;
+  position: relative;
+}
+.frame-254 {
+  display: flex;
+  flex-direction: row;
+  gap: 23px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-252 {
+  padding: 8px 6px 8px 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.quick-links {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-251 {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 118px;
+  position: relative;
+}
+.home2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.donor-list3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.search-donor2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.admin3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.frame-250 {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 242px;
+  position: relative;
+}
+.frame-238 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-240 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.blood-donation-management-team {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-241 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.nakhipot-lalitpur-ward-1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-242 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.postal-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-243 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.info-gorkhey-jutta-com-np {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-248 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.tel-01-545339 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p2-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p2-regular-font-size, 14px);
+  line-height: var(--paragraph-p2-regular-line-height, 160%);
+  font-weight: var(--paragraph-p2-regular-font-weight, 400);
+  position: relative;
+}
+.frame-249 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+._01-5453339 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p2-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p2-regular-font-size, 14px);
+  line-height: var(--paragraph-p2-regular-line-height, 160%);
+  font-weight: var(--paragraph-p2-regular-font-weight, 400);
+  position: relative;
+}
+.frame-253 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 379px;
+  position: relative;
+}
+.dash-board2 {
+  color: #000000;
+  text-align: left;
+  font-family: var(--heading-h3-bold-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--heading-h3-bold-font-size, 32px);
+  line-height: var(--heading-h3-bold-line-height, 130%);
+  font-weight: var(--heading-h3-bold-font-weight, 700);
+  position: absolute;
+  left: 406px;
+  top: 95px;
+}
+.frame-281 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 301px;
+  position: absolute;
+  left: 406px;
+  top: 209px;
+}
+.frame-280 {
+  background: #f20000;
+  padding: 26px 68px 26px 68px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._8 {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--heading-h3-bold-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--heading-h3-bold-font-size, 32px);
+  line-height: var(--heading-h3-bold-line-height, 130%);
+  font-weight: var(--heading-h3-bold-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.listed-blood-group {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--heading-h6-medium-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--heading-h6-medium-font-size, 18px);
+  line-height: var(--heading-h6-medium-line-height, 130%);
+  font-weight: var(--heading-h6-medium-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.button {
+  background: #ececec;
+  padding: 15px 110px 15px 110px;
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.button2 {
+  color: #747474;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.arrow-3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-284 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 301px;
+  position: absolute;
+  left: 406px;
+  top: 451px;
+}
+.frame-2802 {
+  background: #8b5d1e;
+  padding: 26px 68px 26px 68px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.donation-request {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--heading-h6-medium-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--heading-h6-medium-font-size, 18px);
+  line-height: var(--heading-h6-medium-line-height, 130%);
+  font-weight: var(--heading-h6-medium-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.arrow-32 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-282 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 301px;
+  position: absolute;
+  left: 733px;
+  top: 206px;
+}
+.frame-2803 {
+  background: #93b645;
+  padding: 26px 68px 26px 68px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.registered-blood-group {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--heading-h6-medium-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--heading-h6-medium-font-size, 18px);
+  line-height: var(--heading-h6-medium-line-height, 130%);
+  font-weight: var(--heading-h6-medium-font-weight, 500);
+  position: relative;
+}
+.arrow-33 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-283 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 301px;
+  position: absolute;
+  left: 1061px;
+  top: 208px;
+}
+.frame-2804 {
+  background: #1ca1e2;
+  padding: 26px 68px 26px 68px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.total-blood-request-recived {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--heading-h6-medium-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--heading-h6-medium-font-size, 18px);
+  line-height: var(--heading-h6-medium-line-height, 130%);
+  font-weight: var(--heading-h6-medium-font-weight, 500);
+  position: relative;
+}
+.arrow-34 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

@@ -1,0 +1,819 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  height: 3322px;
+  position: relative;
+  overflow: hidden;
+}
+.image-13 {
+  width: 1440px;
+  height: 716px;
+  position: absolute;
+  left: 0px;
+  top: 859px;
+  object-fit: cover;
+}
+.image-12 {
+  width: 1440px;
+  height: 757px;
+  position: absolute;
+  left: 0px;
+  top: 68px;
+  object-fit: cover;
+}
+.frame-4 {
+  background: #ff0000;
+  padding: 8px 42px 8px 42px;
+  display: flex;
+  flex-direction: row;
+  gap: 470px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 1440px;
+  height: 68px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 41px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: underline;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.donor-list {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.admin {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.button {
+  background: #ffffff;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 1px;
+  padding: 15px 77px 15px 77px;
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 193px;
+  position: relative;
+}
+.button2 {
+  color: #ff0000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-256 {
+  background: #ff1c1c;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 2961px;
+}
+.blood-donation-management-system {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--heading-h1-bold-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--heading-h1-bold-font-size, 48px);
+  line-height: var(--heading-h1-bold-line-height, 130%);
+  font-weight: var(--heading-h1-bold-font-weight, 700);
+  position: relative;
+}
+.frame-255 {
+  padding: 18px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 789px;
+  position: relative;
+}
+.frame-254 {
+  display: flex;
+  flex-direction: row;
+  gap: 23px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-252 {
+  padding: 8px 6px 8px 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.quick-links {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-251 {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 118px;
+  position: relative;
+}
+.home3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.donor-list2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.search-donor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.admin2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.frame-250 {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 242px;
+  position: relative;
+}
+.frame-238 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-240 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.blood-donation-management-team {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-241 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.nakhipot-lalitpur-ward-1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-242 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.postal-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-243 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.info-gorkhey-jutta-com-np {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-248 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.tel-01-545339 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p2-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p2-regular-font-size, 14px);
+  line-height: var(--paragraph-p2-regular-line-height, 160%);
+  font-weight: var(--paragraph-p2-regular-font-weight, 400);
+  position: relative;
+}
+.frame-249 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+._01-5453339 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p2-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p2-regular-font-size, 14px);
+  line-height: var(--paragraph-p2-regular-line-height, 160%);
+  font-weight: var(--paragraph-p2-regular-font-weight, 400);
+  position: relative;
+}
+.frame-253 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 379px;
+  position: relative;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.image-8 {
+  width: 222px;
+  height: 309px;
+  position: absolute;
+  left: 80px;
+  top: 1656px;
+  object-fit: cover;
+}
+.image-9 {
+  width: 200px;
+  height: 319px;
+  position: absolute;
+  left: 297px;
+  top: 1651px;
+  object-fit: cover;
+}
+.image-10 {
+  width: 507px;
+  height: 304px;
+  position: absolute;
+  left: 497px;
+  top: 1661px;
+  object-fit: cover;
+}
+.image-11 {
+  width: 356px;
+  height: 304px;
+  position: absolute;
+  left: 1004px;
+  top: 1661px;
+  object-fit: cover;
+}
+.button3 {
+  background: #000000;
+  border-radius: 13px;
+  padding: 15px 30px 15px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1178px;
+  top: 1881px;
+}
+.button4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-259 {
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1231px;
+  position: absolute;
+  left: 80px;
+  top: 901px;
+}
+.contact-donor {
+  color: rgba(0, 0, 0, 0.76);
+  text-align: center;
+  font-family: var(--heading-h1-bold-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--heading-h1-bold-font-size, 48px);
+  line-height: var(--heading-h1-bold-line-height, 130%);
+  font-weight: var(--heading-h1-bold-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.frame-257 {
+  display: flex;
+  flex-direction: row;
+  gap: 73px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-8 {
+  background: #ffffff;
+  border-radius: 19px;
+  padding: 37px 14px 37px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-6 {
+  border-radius: 43px;
+  flex-shrink: 0;
+  width: 85px;
+  height: 85px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.name-ram {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  width: 116px;
+}
+.gender-male {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  width: 116px;
+}
+.blood-group-ab {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  width: 116px;
+}
+.button5 {
+  background: #000000;
+  border-radius: 13px;
+  padding: 15px 30px 15px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 193px;
+  position: relative;
+}
+.frame-9 {
+  background: #ffffff;
+  border-radius: 19px;
+  padding: 37px 14px 37px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-62 {
+  border-radius: 96px;
+  flex-shrink: 0;
+  width: 85px;
+  height: 85px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-10 {
+  background: #ffffff;
+  border-radius: 19px;
+  padding: 37px 14px 37px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-11 {
+  background: #ffffff;
+  border-radius: 19px;
+  padding: 37px 14px 37px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-258 {
+  display: flex;
+  flex-direction: row;
+  gap: 73px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-436 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1280px;
+  height: 649px;
+  position: absolute;
+  left: 80px;
+  top: 2126px;
+}
+.register-your-blood-for-emergency {
+  color: #000000;
+  text-align: left;
+  font-family: var(--heading-h4-bold-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--heading-h4-bold-font-size, 24px);
+  line-height: var(--heading-h4-bold-line-height, 130%);
+  font-weight: var(--heading-h4-bold-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.frame-277 {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-275 {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-273 {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 626px;
+  position: relative;
+}
+.label2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-42 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #b09b9b;
+  border-width: 1px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.label3 {
+  color: #a39494;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.label4 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 628px;
+  position: relative;
+}
+.frame-274 {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.label5 {
+  color: #a39494;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  width: 242px;
+}
+.chevron {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.frame-276 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.message {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-271 {
+  background: #f5f5f5;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 211px;
+  position: relative;
+  overflow: hidden;
+}
+.enter-the-message {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 10px;
+}
+.button6 {
+  background: #e21d28;
+  border-radius: 11px;
+  padding: 15px 30px 15px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}

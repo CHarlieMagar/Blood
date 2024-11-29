@@ -1,0 +1,476 @@
+.account-as-donor,
+.account-as-donor * {
+  box-sizing: border-box;
+}
+.account-as-donor {
+  background: #fcf8f8;
+  height: 1396px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-443 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 735px;
+  position: absolute;
+  left: 353px;
+  top: 84px;
+}
+.create-account {
+  color: #000000;
+  text-align: left;
+  font-family: var(--heading-h3-bold-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--heading-h3-bold-font-size, 32px);
+  line-height: var(--heading-h3-bold-line-height, 130%);
+  font-weight: var(--heading-h3-bold-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.frame-442 {
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #ff1c1c;
+  border-width: 1px;
+  padding: 39px 30px 39px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-437 {
+  border-radius: 25px;
+  padding: 0px 10px 0px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 474px;
+  position: relative;
+}
+.label {
+  padding: 0px 10px 0px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.label2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-4 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #b09b9b;
+  border-width: 1px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.label3 {
+  color: #a39494;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.eye {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.eye2 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.frame-438 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 705px;
+  position: relative;
+}
+.frame-306 {
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.checkbox {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.button {
+  background: #ff1c1c;
+  border-radius: 24px;
+  padding: 15px 46px 15px 46px;
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.button2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-256 {
+  background: #ff1c1c;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 1035px;
+}
+.blood-donation-management-system {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--heading-h1-bold-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--heading-h1-bold-font-size, 48px);
+  line-height: var(--heading-h1-bold-line-height, 130%);
+  font-weight: var(--heading-h1-bold-font-weight, 700);
+  position: relative;
+}
+.frame-255 {
+  padding: 18px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 789px;
+  position: relative;
+}
+.frame-254 {
+  display: flex;
+  flex-direction: row;
+  gap: 23px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-252 {
+  padding: 8px 6px 8px 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.quick-links {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-251 {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 118px;
+  position: relative;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.donor-list {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.search-donor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.admin {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.frame-250 {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 242px;
+  position: relative;
+}
+.frame-238 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-240 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.blood-donation-management-team {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-241 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.nakhipot-lalitpur-ward-1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-242 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.postal-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-243 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.info-gorkhey-jutta-com-np {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p1-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p1-regular-font-size, 14px);
+  font-weight: var(--paragraph-p1-regular-font-weight, 400);
+  position: relative;
+}
+.frame-248 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.tel-01-545339 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p2-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p2-regular-font-size, 14px);
+  line-height: var(--paragraph-p2-regular-line-height, 160%);
+  font-weight: var(--paragraph-p2-regular-font-weight, 400);
+  position: relative;
+}
+.frame-249 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+._01-5453339 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --paragraph-p2-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--paragraph-p2-regular-font-size, 14px);
+  line-height: var(--paragraph-p2-regular-line-height, 160%);
+  font-weight: var(--paragraph-p2-regular-font-weight, 400);
+  position: relative;
+}
+.frame-253 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 379px;
+  position: relative;
+}
